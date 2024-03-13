@@ -1,7 +1,6 @@
 owner: pugazhmukilanoffical2004@gmail.com
 runtimeInfo:
   mainFunction: first_regression
-  mainFunctionArgs:
-    - num:Any
+  mainFunctionArgs: []
   pythonVersion: '3.11'
 schemaVersion: 2

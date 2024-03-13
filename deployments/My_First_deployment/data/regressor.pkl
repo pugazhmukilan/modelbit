@@ -1,8 +1,8 @@
 _: MBFileStub
-contentHash: sha1:a883bf3e911f27e1bf91db52c46f574bcf682d8e
-createdAt: 2024-03-12 03:42:14
+contentHash: sha1:035917139964183d5902d51a6bf6f85e213951ce
+createdAt: 2024-03-13 03:22:48
 metadata:
-  fileSize: 499
+  fileSize: 419
   object:
     class: LinearRegression
     description: LinearRegression()

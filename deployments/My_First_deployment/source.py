@@ -2,11 +2,11 @@ import modelbit, sys
 from typing import *
 from sklearn.linear_model._base import LinearRegression
 
-regressor1 = modelbit.load_value("data/regressor1.pkl") # LinearRegression()
+regressor = modelbit.load_value("data/regressor.pkl") # LinearRegression()
 
 # main function
-def first_regression(num):
-    answer  = regressor1.predict([[num]])
+def first_regression():
+    answer  = regressor.predict([[6.5]])
     
     return answer
 
