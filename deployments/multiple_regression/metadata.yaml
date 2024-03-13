@@ -1,0 +1,7 @@
+owner: pugazhmukilanoffical2004@gmail.com
+runtimeInfo:
+  mainFunction: run
+  mainFunctionArgs:
+    - num:Any
+  pythonVersion: '3.11'
+schemaVersion: 2
