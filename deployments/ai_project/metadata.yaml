@@ -1,0 +1,7 @@
+owner: pugazhmukilanoffical2004@gmail.com
+runtimeInfo:
+  mainFunction: prediction
+  mainFunctionArgs:
+    - base64_img:Any
+  pythonVersion: '3.11'
+schemaVersion: 2

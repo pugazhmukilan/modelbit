@@ -1,0 +1,147 @@
+_: MBFileStub
+contentHash: sha1:a34d625b679d8a29cad6032cee7528194b7a5a08
+createdAt: 2024-04-03 15:05:01
+metadata:
+  fileSize: 1420
+  object:
+    0:
+      class: str
+      description: Apple___Apple_scab
+      module: builtins
+    1:
+      class: str
+      description: Apple___Black_rot
+      module: builtins
+    2:
+      class: str
+      description: Apple___Cedar_apple_rust
+      module: builtins
+    3:
+      class: str
+      description: Apple___healthy
+      module: builtins
+    4:
+      class: str
+      description: Cherry_(including_sour)___Powdery_mildew
+      module: builtins
+    5:
+      class: str
+      description: Cherry_(including_sour)___healthy
+      module: builtins
+    6:
+      class: str
+      description: Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot
+      module: builtins
+    7:
+      class: str
+      description: Corn_(maize)___Common_rust_
+      module: builtins
+    8:
+      class: str
+      description: Corn_(maize)___Northern_Leaf_Blight
+      module: builtins
+    9:
+      class: str
+      description: Corn_(maize)___healthy
+      module: builtins
+    10:
+      class: str
+      description: Grape___Black_rot
+      module: builtins
+    11:
+      class: str
+      description: 'Crop: Grape, Disease: Esca (Black Measles), About Disease: One of the common fungal diseases is Esca (Black Measles) which is found in the Grape Plants and can be easily identified as brown streaking lesions on any part of the leaf. The affected leaves can dry off completely and fall off from the plant prematurely which eventually results in death of the plant.'
+      module: builtins
+    12:
+      class: str
+      description: Grape___Leaf_blight_(Isariopsis_Leaf_Spot)
+      module: builtins
+    13:
+      class: str
+      description: Grape___healthy
+      module: builtins
+    14:
+      class: str
+      description: Orange___Haunglongbing_(Citrus_greening)
+      module: builtins
+    15:
+      class: str
+      description: Peach___Bacterial_spot
+      module: builtins
+    16:
+      class: str
+      description: Peach___healthy
+      module: builtins
+    17:
+      class: str
+      description: Pepper,_bell___Bacterial_spot
+      module: builtins
+    18:
+      class: str
+      description: Pepper,_bell___healthy
+      module: builtins
+    19:
+      class: str
+      description: Potato___Early_blight
+      module: builtins
+    20:
+      class: str
+      description: Potato___Late_blight
+      module: builtins
+    21:
+      class: str
+      description: Potato___healthy
+      module: builtins
+    22:
+      class: str
+      description: Squash___Powdery_mildew
+      module: builtins
+    23:
+      class: str
+      description: Strawberry___Leaf_scorch
+      module: builtins
+    24:
+      class: str
+      description: Strawberry___healthy
+      module: builtins
+    25:
+      class: str
+      description: Tomato___Bacterial_spot
+      module: builtins
+    26:
+      class: str
+      description: Tomato___Early_blight
+      module: builtins
+    27:
+      class: str
+      description: Tomato___Late_blight
+      module: builtins
+    28:
+      class: str
+      description: Tomato___Leaf_Mold
+      module: builtins
+    29:
+      class: str
+      description: Tomato___Septoria_leaf_spot
+      module: builtins
+    30:
+      class: str
+      description: Tomato___Spider_mites Two-spotted_spider_mite
+      module: builtins
+    31:
+      class: str
+      description: Tomato___Target_Spot
+      module: builtins
+    32:
+      class: str
+      description: Tomato___Tomato_Yellow_Leaf_Curl_Virus
+      module: builtins
+    33:
+      class: str
+      description: Tomato___Tomato_mosaic_virus
+      module: builtins
+    34:
+      class: str
+      description: Tomato___healthy
+      module: builtins
+schemaVersion: 1
