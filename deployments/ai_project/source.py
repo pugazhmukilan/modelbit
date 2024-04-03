@@ -17,15 +17,17 @@ loaded_model = keras.models.load_model('data/loaded_model.h5')
 def prediction(base64_img):
     img_data = base64.b64decode(base64_img)
     img = Image.open(BytesIO(img_data))
-    
-    # Resize and preprocess the image
+
+        # Resize and preprocess the image
     img = img.resize((256, 256))
-    i = img_to_array(img)
-    im = preprocess_input(i)
-    #img = np.expand_dims(im, axis=0)
+    img_array = img_to_array(img)
+    img_array = preprocess_input(np.expand_dims(img_array, axis=0))
+
+        # Make prediction using loaded model
+    pred = np.argmax(loaded_model.predict(img_array))
     
     # Make prediction using loaded model
-    pred = np.argmax(loaded_model.predict(img))
+    
     if (reference[pred] == "Apple___Apple_scab"):
         reference[pred] = "Crop: Apple, Disease: Apple Scab, About Disease: Apple scab is a common disease of plants in the rose family that is caused by the ascomycete fungus Venturia inaequalis."
     if (reference[pred] == "Apple___Black_rot"):
