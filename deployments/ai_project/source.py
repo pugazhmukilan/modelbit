@@ -101,6 +101,7 @@ def prediction(base64_img):
     
     
     print(f"{reference[pred]}")
+    return reference[pred]
 
 # to run locally via git & terminal, uncomment the following lines
 # if __name__ == "__main__":
