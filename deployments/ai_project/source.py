@@ -22,7 +22,7 @@ def prediction(base64_img):
     img = img.resize((256, 256))
     i = img_to_array(img)
     im = preprocess_input(i)
-    img = np.expand_dims(im, axis=0)
+    #img = np.expand_dims(im, axis=0)
     
     # Make prediction using loaded model
     pred = np.argmax(loaded_model.predict(img))
