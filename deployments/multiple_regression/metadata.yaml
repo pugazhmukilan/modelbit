@@ -1,5 +1,7 @@
 owner: pugazhmukilanoffical2004@gmail.com
 runtimeInfo:
+  capabilities:
+    - gpu=A10G
   mainFunction: run
   mainFunctionArgs:
     - num1:Any
