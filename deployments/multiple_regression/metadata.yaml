@@ -1,7 +1,6 @@
 owner: pugazhmukilanoffical2004@gmail.com
 runtimeInfo:
-  capabilities:
-    - gpu=T4
+  capabilities: []
   mainFunction: run
   mainFunctionArgs:
     - num1:Any
