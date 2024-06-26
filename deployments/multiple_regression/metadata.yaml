@@ -11,4 +11,5 @@ runtimeInfo:
     - num5:Any
     - num6:Any
   pythonVersion: '3.11'
+  rateLimit: sample
 schemaVersion: 2
