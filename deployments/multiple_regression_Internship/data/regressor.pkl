@@ -1,0 +1,11 @@
+_: MBFileStub
+contentHash: sha1:32c4fa99c28cff79ac6d9259713b29249de250bc
+createdAt: 2024-06-26 13:19:04
+metadata:
+  fileSize: 499
+  object:
+    class: LinearRegression
+    description: LinearRegression()
+    module: sklearn.linear_model._base
+    package: scikit-learn==1.3.0
+schemaVersion: 1
